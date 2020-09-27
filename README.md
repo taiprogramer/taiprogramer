@@ -13,3 +13,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: [taiprogramer.xyz](https://taiprogramer.xyz)
 - 😄 Pronouns: He
 - ⚡ Fun fact: "Learn the basic first and then learn more as you go"
+
+### Tools
+
+<img alt="Html5" width="48px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"/>
