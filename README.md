@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 
 ### I am familiar with...
 
-<img alt="Html5" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"/>
-<img alt="Css3" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"/>
-<img alt="Js" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
-<img alt="Git" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
-<img alt="Java" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
-<img alt="Python" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
-<img alt="Typscript" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
-<img alt="Vim" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" />
-<img alt="Django" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" />
-<img alt="Linux" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg" />
+<img alt="Html5" align="left" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"/>
+<img alt="Css3" align="left" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"/>
+<img alt="Js" align="left" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />
+<img alt="Git" align="left" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />
+<img alt="Java" align="left" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />
+<img alt="Python" align="left" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />
+<img alt="Typscript" align="left" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" />
+<img alt="Vim" align="left" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vim/vim-original.svg" />
+<img alt="Django" align="left" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" />
+<img alt="Linux" align="left" width="36px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-plain.svg" />
