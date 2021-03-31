@@ -11,5 +11,5 @@ taiprogramer -------------- | Experiment |
 - 💬 Ask me about everything related to programming
 - 📫 How to reach me: [taiprogramer.xyz](https://taiprogramer.xyz)
 - 😄 Pronouns: He
-- ⚡ Fun fact: "Learn the basic first and then learn more as you go"
+- ⚡ Quote: "It's OK to say you don't know something. It's a good signal."
 
